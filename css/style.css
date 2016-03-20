@@ -1,0 +1,52 @@
+body {
+	background: #000;
+	font-family: Tahoma, sans-serif;
+	
+}
+
+
+.wrapper {
+	padding-top: 300px;
+	margin: 0 auto;
+	
+}
+
+.timer {
+	padding: 5px;
+	text-align: center;
+	font-size: 80px;
+	font-weight: bold;
+	color: #ff0000;
+}
+
+.nav {
+		position: relative;
+		overflow: hidden;
+		width: 445px;
+		margin: 20px auto;
+}
+
+.butt {
+	float: left;
+	width: 140px;
+	background: #f3f3f3;
+	padding: 4px 7px;
+	margin: 10px 3px;
+	text-align: center;
+	font-size: 45px;
+	color: #000;
+		
+}
+
+.splits {
+	width: 445px;
+	margin: 20px auto;
+}
+
+
+.stop {
+	padding: 5px;
+	text-align: center;
+	font-size: 40px;
+	color: #666;
+}
